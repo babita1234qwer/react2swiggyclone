@@ -1,0 +1,25 @@
+{
+  "name": "d19",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.6.0",
+    "git": "^0.1.5",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-redux": "^9.2.0",
+    "react-router": "^7.1.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.8",
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "description": ""
+}
