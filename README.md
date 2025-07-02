@@ -30,4 +30,11 @@ A React-based clone of Swiggy's homepage featuring a food delivery component wit
 - Tailwind CSS
 - Functional Components + Hooks
 
+## 🙋‍♀️ Author
+
+### 💎 **Babita**
+
+- 🎓 3rd Year CS Student  
+- 💻 Focused on React and full-stack development  
+- 🔗 GitHub: [@babita1234qwer](https://github.com/babita1234qwer)
 
