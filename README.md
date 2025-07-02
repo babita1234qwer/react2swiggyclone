@@ -34,7 +34,9 @@ A React-based clone of Swiggy's homepage featuring a food delivery component wit
 
 ### 💎 **Babita**
 
-- 🎓 3rd Year CS Student  
+- 🗓️ **Built during:** 2nd Year of B.Tech (2024–25)  
+📌 **Committed to GitHub later for documentation and portfolio**
+
 - 💻 Focused on React and full-stack development  
 - 🔗 GitHub: [@babita1234qwer](https://github.com/babita1234qwer)
 
