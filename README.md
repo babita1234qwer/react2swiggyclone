@@ -10,6 +10,7 @@ A React-based clone of Swiggy's homepage featuring a food delivery component wit
 ## 🔗 Live Demo
 
 🌐 **Netlify**:  https://lighthearted-sunshine-4a5392.netlify.app/
+video-demo:https://drive.google.com/file/d/1RSzMIo2k6ZdDFHRczgxWkM-i-aXSmuvH/view?usp=drive_link
 
 ---
 
